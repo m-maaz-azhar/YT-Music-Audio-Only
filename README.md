@@ -1,4 +1,4 @@
-## <img src="./icon.png" /> YT Music Video Remover
+## <img src="./icon.png" align="left" width="40" style="margin-right: 10px;" /> YT Music Audio Only
 YT Music Audio Only is a Chrome extension that disables video playback on YouTube Music, allowing you to focus solely on the music.
 ### Installation
 <ol>
