@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "YT Music Audio Only",
+  "version": "1.0",
+  "description": "Disable video from YouTube Music",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://music.youtube.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
