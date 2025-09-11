@@ -1,5 +1,5 @@
 ## <img src="./icon.png" align="left" width="40" style="margin-right: 10px;" /> YT Music Audio Only
-YT Music Audio Only is a Chrome extension that disables video playback on YouTube Music and replaces it with highest quality thumpnail available.
+YT Music Audio Only is a Chrome extension that disables video playback on YouTube Music and replaces it with the highest-quality thumbnail available.
 ### Installation
 <ol>
 <li><strong>Download:</strong> Get the extension zip file from GitHub.</li>
