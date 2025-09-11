@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YT Music Audio Only",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Disable video from YouTube Music",
   "permissions": [
     "activeTab"
